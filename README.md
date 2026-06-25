@@ -2,12 +2,21 @@
 
 Repositorio público para distribuir APKs de prueba y apps personales.
 
-## Prueba actual
+## Prueba actual: APK limpia
 
-Archivo directo de prueba:
+Archivo directo:
 
-https://raw.githubusercontent.com/alberty8384-ctrl/apps-apk-releases/main/downloads/PruebaAPK.apk
+https://github.com/alberty8384-ctrl/apps-apk-releases/raw/main/downloads/PruebaAPKLimpia.apk
 
-SHA-256 esperado del APK: 207908333f9d5edbb9260cac677acc7525198183486bd9275ebbc7b46837af7f
+Enlace raw equivalente:
 
-Objetivo: comprobar descarga directa desde Android/ColorOS.
+https://raw.githubusercontent.com/alberty8384-ctrl/apps-apk-releases/main/downloads/PruebaAPKLimpia.apk
+
+Datos esperados:
+
+- Nombre visible: APKLimpia
+- PackageName: com.alberto.pruebaapk.clean01
+- Tamaño aproximado: 6,1 KB
+- SHA-256: 464962474dfa78a24e95be7f14723835cad42156a95e9a7f968524e8fdab7a83
+
+Objetivo: comprobar instalación manual desde Android/ColorOS con paquete nuevo y sin conflicto con TurnoClaro/Cuadrante.
