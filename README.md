@@ -21,22 +21,3 @@ Datos esperados:
 
 Objetivo: comprobar instalación manual desde Android/ColorOS con paquete nuevo y sin conflicto con TurnoClaro/Cuadrante.
 
-## TurnoClaro APK debug 0.1.0
-
-Archivo directo:
-
-https://github.com/alberty8384-ctrl/apps-apk-releases/raw/main/downloads/TurnoClaro-debug-0.1.0.apk
-
-Enlace raw equivalente:
-
-https://raw.githubusercontent.com/alberty8384-ctrl/apps-apk-releases/main/downloads/TurnoClaro-debug-0.1.0.apk
-
-Datos esperados:
-
-- Nombre visible: TurnoClaro
-- PackageName: com.alberto.turnoclaro
-- Version: 0.1.0 debug
-- Tamano: 14688 bytes
-- SHA-256: 8699623a91f1f4e83665570daf7d21219324c9acd26802a8244e03d69d4f4096
-
-Objetivo: primera APK offline de TurnoClaro generada por NEXUS como WebView local para validar instalacion y descarga.
